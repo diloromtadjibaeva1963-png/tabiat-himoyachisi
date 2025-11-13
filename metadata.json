@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EcoAI Trash Reporter",
+  "description": "An application to identify waste from an image and simulate notifying volunteers for cleanup. Users can upload an image of waste, and the app uses AI to classify it and log the report.",
+  "requestFramePermissions": []
+}
